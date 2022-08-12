@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone SE",
+      "categoryId": 1,
+      "brandId": 1,
+      "price": 549,
+      "thumbnail": "https://dummyjson.com/image/i/products/1/thumbnail.jpg"
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "categoryId": 1,
+      "brandId": 1,
+      "price": 499,
+      "thumbnail": "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "categoryId": 1,
+      "brandId": 2,
+      "price": 1249,
+      "thumbnail": "https://dummyjson.com/image/i/products/3/thumbnail.jpg"
+    },
+    {
+      "id": 4,
+      "title": "iPhone 12",
+      "categoryId": 1,
+      "brandId": 1,
+      "price": 699,
+      "thumbnail": "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+    },
+    {
+      "id": 5,
+      "title": "iPhone 13",
+      "categoryId": 1,
+      "brandId": 1,
+      "price": 799,
+      "thumbnail": "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Huawei P30",
+      "categoryId": 1,
+      "brandId": 3,
+      "price": 499,
+      "thumbnail": "https://dummyjson.com/image/i/products/5/thumbnail.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Galaxy Z Fold4",
+      "categoryId": 1,
+      "brandId": 2,
+      "price": 2000,
+      "thumbnail": "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Galaxy Z Flip4",
+      "categoryId": 1,
+      "brandId": 2,
+      "price": 1200,
+      "thumbnail": "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
+    },
+    {
+      "id": 9,
+      "title": "MacBook Pro",
+      "categoryId": 2,
+      "brandId": 1,
+      "price": 1749,
+      "thumbnail": "https://dummyjson.com/image/i/products/6/thumbnail.png"
+    },
+    {
+      "id": 10,
+      "title": "Samsung Galaxy Book",
+      "categoryId": 2,
+      "brandId": 2,
+      "price": 1499,
+      "thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg"
+    },
+    {
+      "id": 11,
+      "title": "MacBook Air",
+      "categoryId": 2,
+      "brandId": 1,
+      "price": 1990,
+      "thumbnail": "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "smartphones" },
+    { "id": 2, "name": "laptops" }
+  ],
+  "brands": [
+    { "id": 1, "name": "Apple" },
+    { "id": 2, "name": "Samsung" },
+    { "id": 3, "name": "Huawei" }
+  ]
+}
